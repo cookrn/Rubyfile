@@ -4,10 +4,12 @@ A `Rubyfile` is for you, the developer.
 
 ## What's In It
 
-To start, the version denominator for the ruby interpreter
-you expect your code to run on.
+To start, the version denominator for the ruby interpreter you expect
+your code to run on. Use fully qualified ruby version names that include
+the interpreter name so nothing get's confusing. [@wayneeseguin](https://github.com/wayneeseguin) has a
+perfect list on the RVM website [here](https://rvm.beginrescueend.com/interpreters/).
 
-See the example `Rubyfile`
+See the example `Rubyfile`.
 
 ## What Do You Do With It
 
